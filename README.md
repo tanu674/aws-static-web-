@@ -11,6 +11,13 @@ To design and deploy a professional, globally accessible personal portfolio webs
 
 
 
+
+
+
+
+
+
+
 🛠 Technologies Used
 Frontend
 
@@ -33,6 +40,19 @@ GitHub
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ⚙️ Deployment Process
 Designed and developed the portfolio using HTML, CSS, and JavaScript.
 
@@ -50,6 +70,14 @@ Integrated Amazon CloudFront to improve performance and enable HTTPS.
 
 
 Verified deployment using both S3 and CloudFront endpoints.
+
+
+
+
+
+
+
+
 
 
 
