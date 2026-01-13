@@ -1,4 +1,4 @@
-# aws-static website 
+PORTFOLIO : 
 
 The primary focus of this project is not just frontend design. 
 
@@ -12,7 +12,7 @@ To design and deploy a professional, globally accessible personal portfolio webs
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -50,7 +50,7 @@ GitHub
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 ⚙️ Deployment Process
